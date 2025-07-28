@@ -1,0 +1,36 @@
+
+________        ___.   .__               
+\______ \   ____\_ |__ |__|____    ____  
+ |    |  \_/ __ \| __ \|  \__  \  /    \ 
+ |    `   \  ___/| \_\ \  |/ __ \|   |  \
+/_______  /\___  >___  /__(____  /___|  / A Dumbass Dev yeah
+        \/     \/    \/        \/     \/ 
+
+
+
+**--ALL SCRIPTS PROVIDED ARE PROVIDED IN THE MODEL DynamicFootsteps2ByDebian.rbxm--**
+-follow the steps I provided and it should be fine
+
+    Put the "FootstepSounds" folder in ReplicatedStorage
+    Put the "FootStepServer" inside ServerScriptService
+    Put "DynamicFootsteps" inside StarterPlayer > StarterPlayerScripts
+
+**--ADDING MORE FOOTSTEP SOUNDS--**
+    In the FootstepSounds folder inside your ReplicatedStorage,
+    duplicate/insert a new Sound and rename it according to the Material
+    you want to have a dynamic footstep sound
+
+    ! Make sure to match the Material name (Plastic/Rock/Dirt/Grass etc)
+
+**--FOOTSTEP SOUNDS DOESNT MATCH THE CHARACTER'S FOOTSTEP?--**
+    In your DynamicFootsteps inside the StarterPlayerScripts
+    change the value of these codes
+    local STEP_INTERVAL_WALK = 0.25
+    local STEP_INTERVAL_RUN = 0.24
+    - reduce it to make the Footstep sounds faster
+    - increase the value to make the footstep sounds slower
+
+
+
+Thank you for using my scripts!
+                                   -Debian
