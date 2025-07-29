@@ -12,6 +12,7 @@ ________        ___.   .__
 -follow the steps I provided and it should be fine
 
     Put the "FootstepSounds" folder in ReplicatedStorage
+    Put the FootstepEvent inside the ReplicatedStorage
     Put the "FootStepServer" inside ServerScriptService
     Put "DynamicFootsteps" inside StarterPlayer > StarterPlayerScripts
 
