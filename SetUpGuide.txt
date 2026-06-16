@@ -8,7 +8,7 @@ ________        ___.   .__
 
 
 
-**--ALL SCRIPTS PROVIDED ARE PROVIDED IN THE MODEL DynamicFootsteps2ByDebian.rbxm--**
+**--ALL SCRIPTS PROVIDED ARE IN THE MODEL DynamicFootsteps2ByDebian.rbxm--**
 -follow the steps I provided and it should be fine
 
     Put the "FootstepSounds" folder in ReplicatedStorage
